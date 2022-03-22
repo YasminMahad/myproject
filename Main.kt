@@ -8,9 +8,9 @@ println(name)
 println (phonenumber)
     var weight=52
     println(weight)
-    var iskenyan:Boolean=true
-    println(iskenyan)
-    var isnotkenyan:Boolean=false
-    println(isnotkenyan)
+    var isAmerican:Boolean=true
+    println(isAmerican)
+    var isnotAmerican:Boolean=false
+    println(isnotAmerican)
 
 }
